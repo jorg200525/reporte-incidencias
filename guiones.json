@@ -1,0 +1,44 @@
+[
+  {
+    "n": 1,
+    "titulo": "Respuesta ante Emergencias: Robos, Asaltos y Accidentes",
+    "resumen": "Presentación del procedimiento y flujo de reporte de incidencias: robos, asaltos y accidentes.",
+    "guion": "Bienvenidos a esta capacitación sobre el procedimiento y flujo de reporte de incidencias. Hoy hablaremos de la respuesta ante emergencias: robos, asaltos y accidentes. Veremos qué hacer, cómo reportar y por qué es tan importante informar. Empecemos."
+  },
+  {
+    "n": 2,
+    "titulo": "¿Qué debo hacer ante un robo?",
+    "resumen": "Cinco recomendaciones ante un robo: conservar la calma, cooperar, no mirar a los ojos sino a la altura de los hombros, hacer sentir al atacador que tiene el control e identificar señales del agresor.",
+    "guion": "La primera pregunta es: ¿qué debo hacer ante un robo? Si nos encontramos siendo víctimas de una situación de violencia, por ejemplo un robo, es clave seguir estas recomendaciones. Uno: conservar la calma. Dos: cooperar. Tres: abstenerse de mirar al victimario a los ojos, porque es posible que piense que lo estamos retando. Lo mejor es mirarlo a la altura de los hombros. Cuatro: hacerle sentir al atacador que él tiene el control. Y cinco: intentar identificar señales en el cuerpo del agresor que puedan servir para la investigación, como cicatrices, lunares, tatuajes o piercings."
+  },
+  {
+    "n": 3,
+    "titulo": "Tipos de Incidencias: Peligro en la Quilla del Camión",
+    "resumen": "Peligros: trabajar en la quilla del camión en movimiento y subir, bajar o saltar de ella en movimiento. Cuatro tipos de incidencia con ejemplos: cuasi accidente, incidente con primeros auxilios, accidente incapacitante y accidente mortal.",
+    "guion": "Ahora veamos los tipos de incidencias. El peligro que analizamos es realizar trabajos en la quilla del camión en movimiento, y también subir, bajar o saltar de la quilla del camión en movimiento. Según lo que ocurra, tenemos cuatro tipos. Un cuasi accidente: por ejemplo, «casi me caigo al pisar». Un incidente con primeros auxilios: «pisé mal al caer sobre el piso, pero puedo seguir trabajando». Un accidente incapacitante: «me fracturé el brazo al caer». Y un accidente mortal: «mi compañero cayó de cabeza y murió». Ahora una práctica: ¿cuál es el peligro? Piensen en un ejemplo del camión por cada tipo de incidencia."
+  },
+  {
+    "n": 4,
+    "titulo": "Procedimiento de Respuesta: Incidente",
+    "resumen": "Flujo ante un incidente: ocurre el incidente; primeros auxilios con botiquín y aviso al supervisor; el chofer anota lo ocurrido, datos del trabajador y causa; el supervisor emite el informe oficial con soporte del área SIG.",
+    "guion": "Este es el procedimiento de respuesta ante un incidente. Paso uno: ocurre el incidente. Paso dos: se brindan los primeros auxilios con ayuda del botiquín y se notifica al supervisor. Paso tres: el chofer anota lo ocurrido, los datos del trabajador e identifica por qué sucedió. Paso cuatro: el supervisor emitirá un informe en base a lo ocurrido, en el formato oficial y con soporte del área de SIG."
+  },
+  {
+    "n": 5,
+    "titulo": "Procedimiento de Respuesta: Accidente",
+    "resumen": "Flujo ante un accidente: ocurre el accidente; primeros auxilios y notificación al supervisor, quien coordina traslado a un centro médico o la ambulancia; se anota lo ocurrido, datos y causas; el supervisor emite el informe oficial con soporte del área SIG.",
+    "guion": "Ahora el procedimiento de respuesta ante un accidente. Paso uno: ocurre el accidente. Paso dos: se brindan los primeros auxilios y se notifica al supervisor, quien coordina el traslado a un centro médico o la llamada de la ambulancia. Paso tres: se anota lo ocurrido, los datos del trabajador y se identifican las causas del accidente. Paso cuatro: el supervisor emitirá un informe en base a lo ocurrido, en el formato oficial y con soporte del área de SIG."
+  },
+  {
+    "n": 6,
+    "titulo": "Datos que el Chofer Debe Tomar",
+    "resumen": "Datos a registrar: fecha y hora, nombre y DNI de la persona, qué sucedió y qué se hizo. Se muestra un ejemplo con una caída de la quilla del camión.",
+    "guion": "Veamos qué datos debe tomar el chofer. Se anota la fecha y la hora, el nombre de la persona y su DNI, qué sucedió y qué se hizo. Por ejemplo: fecha, 20 de setiembre a las 10:30 de la mañana. Persona: Juan Pérez, con su número de DNI. ¿Qué sucedió? Se encontraba en el camión volteando la carga, perdió el equilibrio y cayó de la quilla del vehículo, ocasionándole un fuerte golpe en el pie derecho. ¿Qué se hizo? Se llamó al supervisor para informarle lo ocurrido."
+  },
+  {
+    "n": 7,
+    "titulo": "¿Por qué es importante informar las incidencias?",
+    "resumen": "Informar ayuda al equipo de Seguridad a evaluar las causas y definir medidas correctivas a tiempo, evitando que le ocurra a otro compañero. Para que no vuelvan a suceder.",
+    "guion": "Para terminar: ¿por qué es importante informar las incidencias? Porque informar ayuda al equipo de Seguridad a evaluar las causas y definir medidas correctivas a tiempo, evitando que le ocurra a algún compañero tuyo. Informamos para que no vuelvan a suceder. Muchas gracias por su atención, y si tienen alguna duda, pueden hacérmela ahora."
+  }
+]
